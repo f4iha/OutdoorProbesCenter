@@ -16,7 +16,7 @@ int WindMeasureCounter = 0;
 int Light;
 
 
-unsigned long Snooze_Time = 30000;
+unsigned long Snooze_Time = 300000;
 
 WiFiClient espClient;
 PubSubClient client(espClient);
