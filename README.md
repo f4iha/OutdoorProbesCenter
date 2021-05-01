@@ -20,6 +20,8 @@ For now, the tool was only tested on this ESP-32 board
 It is a very simple board with only 2 10k Ohms resistors, one photoresistor and the anemometer.
 ![Electronic schema](docs/electrical-schema.png)
 
+The ![Kicad source](docs/electrical-schema.sch) is also available.
+
 ## Compiling
 
 ### How to compile
